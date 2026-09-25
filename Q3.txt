@@ -1,0 +1,15 @@
+Question 3: Basic HTTP Server
+
+File: server.js
+
+Port: 3000
+
+Routes:
+
+/ -> Welcome to Node Server
+/about -> About Page
+/contact -> Contact Page
+Invalid route -> 404 - Page Not Found
+
+Command:
+node server.js

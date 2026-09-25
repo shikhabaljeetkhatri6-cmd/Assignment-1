@@ -1,0 +1,19 @@
+Question 2: Custom Module Creation and Reusability
+
+Files:
+modules/isEven.js
+modules/logger.js
+app.js
+
+Concepts used:
+module.exports
+require()
+
+Output:
+[LOG] Application started.
+10 is Even
+15 is Odd
+20 is Even
+25 is Odd
+30 is Even
+[LOG] Application finished.
